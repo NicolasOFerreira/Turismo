@@ -1,0 +1,6 @@
+br\edu\turismo\ConsultaController.class
+br\edu\turismo\ApiExceptionHandler.class
+br\edu\turismo\TurismoApplication.class
+br\edu\turismo\RequisicaoInvalidaException.class
+br\edu\turismo\ReservaController.class
+br\edu\turismo\ReservaRequest.class
